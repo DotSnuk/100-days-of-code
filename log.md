@@ -17,6 +17,14 @@ One of the rules is that when I sit down infront of the computer, I have to code
 Another rule is that when I get home from work, I will also code for atleast, hopefully more, for 10 minutes.
 I also try to approach that every day I want to improve my skills in programming. I want to learn every day something about programming or getting more knowledgeable about programming.
 
+### Day 2: February 23, 2020
+
+**Today's Progress**: Finished chapter on dictionaries, and other type of structured data (like sets, and tuples). Started chapter on functions.
+
+**Thoughts**: This one I look forward to learning, so I don't have to keep all my code in one single place.
+A side-note: Re-arranged my desk, added a second monitor, and rotated both of them to portrait mode so I know that when I sit infront of the computer, I'm supposed to be programming. This also helped since I can use the second monitor to have the pdf of the book I'm reading open and don't have to rely on my ipad (which has a smaller screen).
+
+
 ### Day #: Month Date, Year
 
 **Today's Progress**: 
