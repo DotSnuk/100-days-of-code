@@ -24,11 +24,11 @@ I also try to approach that every day I want to improve my skills in programming
 **Thoughts**: This one I look forward to learning, so I don't have to keep all my code in one single place.
 A side-note: Re-arranged my desk, added a second monitor, and rotated both of them to portrait mode so I know that when I sit infront of the computer, I'm supposed to be programming. This also helped since I can use the second monitor to have the pdf of the book I'm reading open and don't have to rely on my ipad (which has a smaller screen).
 
-Day 3: February 24, 2020
+### Day 3: February 24, 2020
 
-Today's Progress: Finished chapter on functions and modules. Learning now how to make simple webapps.
+**Today's Progress**: Finished chapter on functions and modules. Learning now how to make simple webapps.
 
-Thoughts: Starting to see the point of learning a little day after day. Now I get to see some graphical stuff on my screen other than that in the IDE (although it´s very simple stuff, it's still progress). It's going to be a lot of fun to see how much I can do in a week, or better yet, month or longer :).
+**Thoughts**: Starting to see the point of learning a little day after day. Now I get to see some graphical stuff on my screen other than that in the IDE (although it´s very simple stuff, it's still progress). It's going to be a lot of fun to see how much I can do in a week, or better yet, month or longer :).
 
 ### Day #: Month Date, Year
 
