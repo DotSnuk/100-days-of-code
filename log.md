@@ -30,6 +30,14 @@ A side-note: Re-arranged my desk, added a second monitor, and rotated both of th
 
 **Thoughts**: Starting to see the point of learning a little day after day. Now I get to see some graphical stuff on my screen other than that in the IDE (although it´s very simple stuff, it's still progress). It's going to be a lot of fun to see how much I can do in a week, or better yet, month or longer :).
 
+### Day 4: February 25 2020
+
+**Today's Progress**: Finished chapter on webapps. Made a simple site that compares two strings and shows the common letters. Besides the book I'm reading, I decided to learn about how git works (the basics). Also trying to make a simple site that you can create a "account" with username and password and store it in a txt file, and later when you try to login see if it's correct.
+
+**Thoughts**: Trying out this side project on my own and will see if I know enough that I can make it and figure it out. Might spend some time on it tomorrow and if it's a dead end and I have no idea on where to go, I'll continue with the python book im reading.
+Also I don't think I need to use git now, for what I'm doing, but thought I would atleast learn the basics so I get into the habit of commiting stuff here so when I do need it, I know the most basic stuff atleast.
+
+
 ### Day #: Month Date, Year
 
 **Today's Progress**: 
