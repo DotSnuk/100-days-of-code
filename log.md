@@ -37,6 +37,14 @@ A side-note: Re-arranged my desk, added a second monitor, and rotated both of th
 **Thoughts**: Trying out this side project on my own and will see if I know enough that I can make it and figure it out. Might spend some time on it tomorrow and if it's a dead end and I have no idea on where to go, I'll continue with the python book im reading.
 Also I don't think I need to use git now, for what I'm doing, but thought I would atleast learn the basics so I get into the habit of commiting stuff here so when I do need it, I know the most basic stuff atleast.
 
+### Day 5: February 26, 2020
+
+**Today's Progress**: Continued on webapps and how to write to files.
+
+**Thoughts**: Have been exersising every day at work since it's "sportlov" (rough translation: sport week, or exercise week. A week in sweden when (at least schools) are closed and you're encouraged to engage in sport activities.) Have been programming the other days as soon as I get home even though we have exersiced, today I had to rest for two hours before I started coding. So I havn't done as much as usual, but atleast I have my minimum 1 hour done (that is pure coding, according to wakatime (https://wakatime.com/dashboard )) but that doesn't account for the time I spend reading the book I'm learning from.
+Nevertheless, will finish this chapter and then see if I can make any progress on my personal project.
+
+
 
 ### Day #: Month Date, Year
 
