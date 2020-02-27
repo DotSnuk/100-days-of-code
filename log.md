@@ -44,7 +44,12 @@ Also I don't think I need to use git now, for what I'm doing, but thought I woul
 **Thoughts**: Have been exersising every day at work since it's "sportlov" (rough translation: sport week, or exercise week. A week in sweden when (at least schools) are closed and you're encouraged to engage in sport activities.) Have been programming the other days as soon as I get home even though we have exersiced, today I had to rest for two hours before I started coding. So I havn't done as much as usual, but atleast I have my minimum 1 hour done (that is pure coding, according to wakatime (https://wakatime.com/dashboard )) but that doesn't account for the time I spend reading the book I'm learning from.
 Nevertheless, will finish this chapter and then see if I can make any progress on my personal project.
 
+### Day 6: February 26, 2020
 
+**Today's Progress**: Worked on the webapp, made the results readable in a HTML table
+
+**Thoughts**: Last day of this week's "sportlov". Got the last exercise done for this chapter in Head First into python. Will spend more time on my personal project tomorrow. Don't know if I need to learn more about Jinja2 or html if I'm going to be able to make the site I want. Think it's kind of fun with html/css, but think I should focus more on python. Don't know since I'm so new to python that I should learn more about html/css before learning more basic programming skills. Have tinkered with html/css in the past but was a few years ago.
+Will have to sleep on it and see if I can figure something out.
 
 ### Day #: Month Date, Year
 
