@@ -59,6 +59,13 @@ Will have to sleep on it and see if I can figure something out.
 But I want the status_page function to show if both if the login is successfull and if the account creation is successfull. I could use a seperate for the login, and maybe that makes sense. Found a method in flask called referrer but that gets me the value of the entire url. I just want the last part. Could split it, but.. Just thought of something, if I do split it by '/', and look at the last listpart list[-1].. That should get me the last url bit.
 *Quick edit*: Decided against the last part. It became to many if's, so I think it looks better to have seperate functions for the create and login status page.
 
+### Day 8: February 29, 2020
+
+**Today's Progress**: Learned about databases (mysql/mariadb) and classes.
+
+**Thoughts**: Smooth day. Just trying to find a new project to play with. Thought it was a lot of fun with databases and classes, can see myself playing around a lot with those. Should probably get to know databases a bit better. Still searching for idea's on what to work on..
+But a very good day non-the-less!
+
 ### Day #: Month Date, Year
 
 **Today's Progress**: 
