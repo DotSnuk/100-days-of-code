@@ -66,6 +66,13 @@ But I want the status_page function to show if both if the login is successfull 
 **Thoughts**: Smooth day. Just trying to find a new project to play with. Thought it was a lot of fun with databases and classes, can see myself playing around a lot with those. Should probably get to know databases a bit better. Still searching for idea's on what to work on..
 But a very good day non-the-less!
 
+### Day 9: March 1, 2020
+
+**Today's Progress**: Played around with databases in python. Also some css
+
+**Thoughts**: In the past I have tried programming in small burst but was never that serious. But I do remember a little bit in how to think. But never used databases so that part is completely new to me. Always wanted to learn it because you can do cool stuff with it IMO. So trying to get a better grasp on that.
+Also played around with css so I can get this new/upgraded site to look somewhat 'OK'.
+
 ### Day #: Month Date, Year
 
 **Today's Progress**: 
