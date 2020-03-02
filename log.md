@@ -73,6 +73,14 @@ But a very good day non-the-less!
 **Thoughts**: In the past I have tried programming in small burst but was never that serious. But I do remember a little bit in how to think. But never used databases so that part is completely new to me. Always wanted to learn it because you can do cool stuff with it IMO. So trying to get a better grasp on that.
 Also played around with css so I can get this new/upgraded site to look somewhat 'OK'.
 
+### Day 10: March 2, 2020
+
+**Today's Progress**: Worked with the database for my project (ran into some issues that's now resolved). Also did a 'roadmap' for this project (link below)
+
+**Thoughts**: Ran into some issues with the database when I tried to check if the username was already taken. The issue was that I had already multiple users with the same name. I googled and found out that this could be resolved if you used the username as the primary key (or something along those line) instead of the id that's given in the order a user is created. Figured I could use that as a solution in future projects, but wanted to play around with the database and see how I could compare values and such. It was resolved once I deleted the other users with the same name, so my previous tries to get it to work might have worked (some of them atleast).
+
+**Link to roadmap**: https://pbs.twimg.com/media/ESIDtfxXYAA38Al?format=jpg&name=large
+
 ### Day #: Month Date, Year
 
 **Today's Progress**: 
