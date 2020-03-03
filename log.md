@@ -81,6 +81,12 @@ Also played around with css so I can get this new/upgraded site to look somewhat
 
 **Link to roadmap**: https://pbs.twimg.com/media/ESIDtfxXYAA38Al?format=jpg&name=large
 
+### Day 11: March 3, 2020
+
+**Today's Progress**: Finished the create user/login part (I thought). Then got introduced to sessions from the python book. So will need to implement that. Played around with the css/html.
+
+**Thoughts**: The session part made a lot of sense. Had thought of how I would solve too see if a user is logged in, and this solves that pretty easy (I think, haven't finished the chapter yet..). Tweaked the css/html a little.
+
 ### Day #: Month Date, Year
 
 **Today's Progress**: 
