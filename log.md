@@ -87,6 +87,14 @@ Also played around with css so I can get this new/upgraded site to look somewhat
 
 **Thoughts**: The session part made a lot of sense. Had thought of how I would solve too see if a user is logged in, and this solves that pretty easy (I think, haven't finished the chapter yet..). Tweaked the css/html a little.
 
+
+### Day 12: March 4, 2020
+
+**Today's Progress**: Learned how to create my own decorators in python. That took some serious thinking before it clicked. (still some confusion but understand the big picture.. I think)
+
+**Thoughts**: As I said, had to think long and hard before I understood creating my own decorators.. Writing it down on my ipad might have helped, so I didn't have to keep it all in the head.
+Now I'm going to play around with flask-bootstrap and see if I can make my site even prettier!
+
 ### Day #: Month Date, Year
 
 **Today's Progress**: 
