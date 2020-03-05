@@ -95,6 +95,13 @@ Also played around with css so I can get this new/upgraded site to look somewhat
 **Thoughts**: As I said, had to think long and hard before I understood creating my own decorators.. Writing it down on my ipad might have helped, so I didn't have to keep it all in the head.
 Now I'm going to play around with flask-bootstrap and see if I can make my site even prettier!
 
+
+### Day 13: March 4, 2020
+
+**Today's Progress**: Struggled with bootstrap and how it was suppose to work and how I was supposed to manage it. Didn't get it, will continue to work with basic css/html until I give it another shot.
+
+**Thoughts**: After a few hours I gave up in trying to use bootstrap. Played around with it yesterday evening after I wrote that post, and when I came home from work today. But for now I will rely on my basic css/html knowledge and continue learning python. But didn't get much learning done, or programming outside of trying to understand bootstrap, so will add another day to the 100 days.
+
 ### Day #: Month Date, Year
 
 **Today's Progress**: 
