@@ -96,7 +96,7 @@ Also played around with css so I can get this new/upgraded site to look somewhat
 Now I'm going to play around with flask-bootstrap and see if I can make my site even prettier!
 
 
-### Day 13: March 4, 2020
+### Day 13: March 5, 2020
 
 **Today's Progress**: Struggled with bootstrap and how it was suppose to work and how I was supposed to manage it. Didn't get it, will continue to work with basic css/html until I give it another shot.
 
