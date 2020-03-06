@@ -102,6 +102,14 @@ Now I'm going to play around with flask-bootstrap and see if I can make my site 
 
 **Thoughts**: After a few hours I gave up in trying to use bootstrap. Played around with it yesterday evening after I wrote that post, and when I came home from work today. But for now I will rely on my basic css/html knowledge and continue learning python. But didn't get much learning done, or programming outside of trying to understand bootstrap, so will add another day to the 100 days.
 
+
+### Day 14: March 6, 2020
+
+**Today's Progress**: Made a roadmap for the project I decided on (a rick and morty inspired inventory game)
+Also think the next project I want to work on a program that sorts file (like in a downloads folder) into subfolders and suck
+
+**Thoughts**: Didn't get that much actual coding done. Got pygame to work with just a blank screen (all I was going for) so will continue working on learning pygame tomorrow. Was mentally tired so didn't get much else done. Think it's smart to take it easy so I don't burn myself out (even though I haven't been that busy, but I'm trying to focus on my mental health since my OCD is still quite energy consuming sometimes..)
+
 ### Day #: Month Date, Year
 
 **Today's Progress**: 
