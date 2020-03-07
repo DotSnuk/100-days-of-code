@@ -110,6 +110,14 @@ Also think the next project I want to work on a program that sorts file (like in
 
 **Thoughts**: Didn't get that much actual coding done. Got pygame to work with just a blank screen (all I was going for) so will continue working on learning pygame tomorrow. Was mentally tired so didn't get much else done. Think it's smart to take it easy so I don't burn myself out (even though I haven't been that busy, but I'm trying to focus on my mental health since my OCD is still quite energy consuming sometimes..)
 
+
+### Day 15: March 7, 2020
+
+**Today's Progress**: Switched from pygame to tkinter, since I'm only going to use buttons and text to 'play' this game.
+
+**Thoughts**: So now I'm playing around with that instead. The tutorial I'm following isn't that great, so I will probably look for an alternative (it's just plain text, no structure or classes or anything.
+Also using/testing sublime text 3 now instead of pycharm. Like the simplicity a lot more. A lot cleaner, and that's my jam!
+
 ### Day #: Month Date, Year
 
 **Today's Progress**: 
