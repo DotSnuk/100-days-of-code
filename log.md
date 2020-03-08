@@ -118,6 +118,12 @@ Also think the next project I want to work on a program that sorts file (like in
 **Thoughts**: So now I'm playing around with that instead. The tutorial I'm following isn't that great, so I will probably look for an alternative (it's just plain text, no structure or classes or anything.
 Also using/testing sublime text 3 now instead of pycharm. Like the simplicity a lot more. A lot cleaner, and that's my jam!
 
+### Day 16: March 8, 2020
+
+**Today's Progress**: Kept working with my personal project, Morty's inventory and playing with tkinter.
+
+**Thoughts**: Didn't get very much to show for how much I spent programming, a few buttons, a few text labels.. But I guess it takes a while to understand something that you have never worked with before. Have to be kind to myself so I can keep going.
+
 ### Day #: Month Date, Year
 
 **Today's Progress**: 
